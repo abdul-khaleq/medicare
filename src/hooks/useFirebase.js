@@ -41,7 +41,6 @@ const useFirebase = () =>{
       }
       const handleResistration = e =>{
         e.preventDefault();
-        console.log(email, password)
         if(password.length < 6){
           setError('Password must be at least 6 characters');
           return;

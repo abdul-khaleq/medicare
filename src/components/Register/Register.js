@@ -30,9 +30,11 @@ const Register = () => {
     <div className="text-center"><Form.Check onChange={toggleLogin} className="checkbox" type="checkbox" label="Already have an account?" /></div>
   </Form.Group>
   <p className="text-danger">{error}</p>
-  <Button variant="primary" type="submit">
+
+  <Button variant="primary"  type="submit">
   {isLogin ?'Login' : 'Resister'}
   </Button>
+  
 </Form>}
             </div> :  <Login></Login>}
         </div>

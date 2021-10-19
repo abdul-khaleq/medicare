@@ -3,8 +3,9 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className='footer'>
-               <div className="row">
+        <div className='container-fluid f'>
+            <br />
+               <div className='row'>
                    <div className="col">
                    <p>Copyright by BoldThemes 2018. All rights reserved.</p>
                    </div>
@@ -13,12 +14,9 @@ const Footer = () => {
  <a href="#"> CONTACT US</a>
  <a href="#"> SERVICES</a>
  <a href="#"> BACK TO PAGE TOP</a>
-
-
-
-
                    </div>
                </div>
+               <br />
         </div>
     );
 };

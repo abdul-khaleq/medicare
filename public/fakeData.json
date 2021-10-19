@@ -24,27 +24,27 @@
         "imageURL": "https://i.ibb.co/ZMkWN0m/1000-F-334062970-Ib7o6-Hyo-NULf-Iznu7-Ie-SOFl-CXkwqj-O6r.jpg"
     },
     {
-        "id": "103",
-        "key": "3",
-        "name": "Valve prolapse / repair",
+        "id": "104",
+        "key": "4",
+        "name": "Valve diseases",
         "price": "132",
-        "description": "You have two chambers on the left side of your heart: your left atrium and your left ventricle. Your mitral valve, which is located between the two, is designed to allow blood to flow",
-        "imageURL": "https://i.ibb.co/ZMkWN0m/1000-F-334062970-Ib7o6-Hyo-NULf-Iznu7-Ie-SOFl-CXkwqj-O6r.jpg"
+        "description": "Heart valve disorders can affect any of the valves in your heart. Your heart valves have flaps that open and close with each heartbeat, allowing blood to flow through the heart's",
+        "imageURL": "https://i.ibb.co/1f9Ln2Q/chest-lung-x-ray-doctor-s-computer-screen-desk-124865-9918.jpg"
     },
     {
-        "id": "103",
-        "key": "3",
-        "name": "Valve prolapse / repair",
+        "id": "105",
+        "key": "5",
+        "name": "Heart transplant",
         "price": "132",
-        "description": "You have two chambers on the left side of your heart: your left atrium and your left ventricle. Your mitral valve, which is located between the two, is designed to allow blood to flow",
-        "imageURL": "https://i.ibb.co/ZMkWN0m/1000-F-334062970-Ib7o6-Hyo-NULf-Iznu7-Ie-SOFl-CXkwqj-O6r.jpg"
+        "description": "A heart transplant is a surgical procedure used to treat the most serious cases of heart disease. This is a treatment option for people who are in the end stages of heart failure.",
+        "imageURL": "https://i.ibb.co/CBb8cdN/heart-disease-treatment-design-concept-with-tiny-people-7087-969.jpg"
     },
     {
-        "id": "103",
-        "key": "3",
-        "name": "Valve prolapse / repair",
+        "id": "106",
+        "key": "6",
+        "name": "Heart surgery",
         "price": "132",
-        "description": "You have two chambers on the left side of your heart: your left atrium and your left ventricle. Your mitral valve, which is located between the two, is designed to allow blood to flow",
-        "imageURL": "https://i.ibb.co/ZMkWN0m/1000-F-334062970-Ib7o6-Hyo-NULf-Iznu7-Ie-SOFl-CXkwqj-O6r.jpg"
+        "description": "Open-heart surgery is any type of surgery where the chest is cut open and surgery is performed on the muscles, valves, or arteries of the heart.",
+        "imageURL": "https://i.ibb.co/QdP8tXR/beautiful-smiling-nurse-showing-heart-with-hands-181624-27123.jpg"
     }
 ]
